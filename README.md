@@ -48,7 +48,6 @@ The dashboard helps analyze:
 - Power BI Dashboard (.pbix)
 - Dataset (.xlsx/.csv)
 - Dashboard Screenshots
-- DAX Measures
 ---
 ## Dashboard Preview
 ![Dashboard Preview](Images/dashboard-overview.png)
