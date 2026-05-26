@@ -50,7 +50,10 @@ The dashboard helps analyze:
 - Dashboard Screenshots
 ---
 ## Dashboard Preview
-![Dashboard Preview](Images/dashboard-overview.png)
+README.md
+image.png
+dataset.xlsx
+pbix
 ---
 ## How to Use
 1. Download the repository
