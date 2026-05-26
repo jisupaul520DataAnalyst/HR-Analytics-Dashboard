@@ -51,6 +51,7 @@ The dashboard helps analyze:
 ---
 ## Dashboard Preview
 ![Dashboard Preview](dashboard-overview.png)
+
 ---
 ## How to Use
 1. Download the repository
